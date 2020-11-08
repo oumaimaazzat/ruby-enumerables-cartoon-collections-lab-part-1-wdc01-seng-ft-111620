@@ -1,6 +1,5 @@
-def roll_call_dwarves(array)
-  index = 0
-  array.each_with_index {|name, index| puts "#{index + 1}. #{name} "}
+def greet_characters(array)
+  greet_characters_array = ["Hello Dopey!", "Hello Grumpy!", "Hello Bashful!"]
 end
 
 def list_dwarves(array)
