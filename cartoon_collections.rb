@@ -3,5 +3,5 @@ def greet_characters(array)
 end
 
 def list_dwarves(array)
-  dwarves = ["Dopey", "Grumpy", "Bashful"]
+  dwarves_array = ["Dopey", "Grumpy", "Bashful"]
 end
