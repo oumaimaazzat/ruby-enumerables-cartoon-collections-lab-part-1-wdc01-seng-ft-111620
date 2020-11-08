@@ -1,5 +1,5 @@
 def greet_characters(array)
-  characters_array = ["Hoggle", "Ludo", "Sir Didymus"]
+  characters_array = ["Hello Dopey", "Ludo", "Sir Didymus"]
 end
 
 def list_dwarves(array)
